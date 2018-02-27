@@ -1,0 +1,4 @@
+[submodule "remax"]
+	path = remax
+	url = git@github.com:rocketgithub/remax.git
+	branch = master
