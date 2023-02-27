@@ -1,2 +1,1 @@
 # remax-odoo.sh.
-
